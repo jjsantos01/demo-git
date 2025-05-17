@@ -1,2 +1,2 @@
-importa pandas as np
-importa numpy as pd
+import pandas as pd
+import numpy as np
